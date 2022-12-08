@@ -1,1 +1,2 @@
 # BabyPiano
+For our project, by using the 4x4 keypad, we want to make a little piano. Each keypress will trigger a different note. Then by using a potentiometer, we will be able to change the tuning of the notes. Not only will each keypress trigger a different note, but it will also cause our iLED to change color. The intensity of the displayed colors will indicate where the current tuning is i.e. lower tunings have darker colors while higher tunings have lighter colors.
